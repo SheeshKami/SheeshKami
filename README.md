@@ -40,10 +40,19 @@ Remember: curiosity comes with its consequences!
 ## 🤝 **Connect with Me**
 Got bugs? Let’s squash them together! Reach out anytime:
 
-<div align="center"> <a href="https://www.instagram.com/mridul.ft/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E63946&logoColor=ffffff&labelColor=1d1f27&style=for-the-badge" height="35" alt="Instagram logo" /> </a> <a href="https://discord.gg/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=ffffff&labelColor=1d1f27&style=for-the-badge" height="35" alt="Discord logo" /> </a> <a href="mailto:mridulbud@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=ffffff&labelColor=1d1f27&style=for-the-badge" height="35" alt="Gmail logo" /> </a> </div>
+<div align="center">
+  <a href="https://www.instagram.com/mridul.ft/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://discord.gg/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+  <a href="mailto:mridulbud@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</div>
 
 ```yaml
-# Fun Fact
 - My bugs are more famous than my commits 🐞
 - I believe in the power of caffeine and clean indentation.
 - When in doubt: console.log('It works!').
