@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=E63946&text=Welcome%20To%20My%20Profile&desc=Gamer%20%7C%20Weeb%20%7C%20Developer&descAlign=50&descAlignY=75&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=E63946&text=Welcome%20To%20My%20Profile&desc=Gamer%20%7C%20Weeb%20%7C%20Developer&descAlign=50&descAlignY=71&fontAlignY=46&fontColor=ffffff"/>
 </p>
 
 <a href="https://google.com">
