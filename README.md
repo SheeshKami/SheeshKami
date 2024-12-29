@@ -14,9 +14,7 @@
 
 <h4>About Me</h4>
 
-A **lazy coder** by day and a **world-class anime binger** by night. Fuelled by caffeine, sarcasm, and a love for solving problems (except math problems — keep those away 🫠).
-
-Coding since yesterday, debugging since today. Living life one `console.log` at a time while occasionally questioning why semicolons exist.  
+A lazy coder by day and anime binger by night, fueled by caffeine and sarcasm, occasionally questioning why semicolons exist. 
 
 ---
 
