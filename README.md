@@ -6,14 +6,14 @@
 <img align="right" width="425" src="https://lanyard.cnrad.dev/api/1200558164844740796?imgStyle=circle&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117" style="position: relative; top: -10mm;">
 </a>
 
-### Hey I'm Mridul Budhalakoti
+### Hey I'm Mridul
 
 **Web Developer and Gamer** 
 
 <h4 align="left">About Me</h4>
 
 <a href="https://github.com/himitsu95"><img align="left" width="100" ></a>
-Lazy coder by day, anime marathoner by night. Caffeine is my drug, I love to eat **Bugs**.
+lazy coder by day, anime marathoner by night. caffeine is my drug, I love to eat **bugs**.
 
 Just started coding and already dreaming in binary. More bugs in my code than a summer night. Laughing at my syntax errors since day one! :bug:
 <br><br>
