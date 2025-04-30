@@ -14,7 +14,9 @@
 
 <h4>About Me</h4>
 
-A **lazy coder** by day and **world-class anime binger** by night, loves to solve problems (except math ones 🫠) and questioning why semicolons exist.
+- Building things for the web  
+- Learning something new every day  
+- Anime + late-night coding = perfect combo 
 
 ---
 
