@@ -8,7 +8,7 @@
 
 ### 👋 Hey, I'm Mridul! 
 
-**Full-Stack Developer | Gamer Extraordinaire**
+**Full-Stack Developer | Gamer | Anime Fan**
 
 ---
 
