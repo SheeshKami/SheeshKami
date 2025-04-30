@@ -1,59 +1,52 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=E63946&text=Welcome%20To%20My%20Profile&desc=Gamer%20%7C%20Weeb%20%7C%20Developer&descAlign=50&descAlignY=71&fontAlignY=46&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=E63946&text=Welcome%20To%20My%20Profile&desc=Full-Stack%20Dev%20%7C%20Gamer%20%7C%20Weeb&descAlign=50&descAlignY=71&fontAlignY=46&fontColor=ffffff"/>
 </p>
 
 <a href="https://google.com">
-<img align="right" width="425" src="https://lanyard.cnrad.dev/api/1200558164844740796?imgStyle=square&gradient=fa7d09-ff4301-4a4a4a-0d1117&bg=1d1f27" style="position: relative; top: -10mm;">
+  <img align="right" width="425" src="https://lanyard.cnrad.dev/api/1200558164844740796?imgStyle=square&gradient=fa7d09-ff4301-4a4a4a-0d1117&bg=1d1f27">
 </a>
 
-### 👋 Hey, I'm Mridul! 
-
-**Full-Stack Developer | Gamer Extraordinaire**
-
----
-
-<h4>About Me</h4>
-
-A **lazy coder** by day and **world-class anime binger** by night, loves to solve problems (except math ones 🫠) and questioning why semicolons exist.
+### 👋 Hey, I'm Mridul  
+**Full-Stack Developer | Tech Enthusiast | Anime Fan**
 
 ---
 
-## 🌟 **GitHub Stats**
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=mridulcreates&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulcreates&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+## 🧠 About Me  
+- Building things for the web  
+- Learning something new every day  
+- Anime + late-night coding = perfect combo  
+
+---
+
+## 🛠️ Skills  
+![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mridulcreates&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulcreates&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mridulcreates&bg_color=0d1117&color=ffffff&line=00ffee&point=ababab&area=true&hide_border=true" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mridulcreates&bg_color=0d1117&color=ffffff&line=00ffee&point=ababab&area=true&hide_border=true" alt="activity-graph" />
 </div>
 
 ---
 
-## 🧮 **Visitor Counter**
-<a href="https://google.com"><img align="right" width=400 src="https://count.getloli.com/get/@mridulcreates?theme=rule34"></a>
+## 🧮 Visitor Counter  
+
+<a href="#"><img align="right" width="400" src="https://count.getloli.com/get/@mridulcreates?theme=rule34"></a>
 
 ```yaml
-Welcome, mysterious visitor!  
-You've entered my digital lair.  
-Remember: curiosity comes with its consequences!  
-```
-
-## 🤝 **Connect with Me**
-Got bugs? Let’s squash them together! Reach out anytime:
-
-<div align="center">
-  <a href="https://www.instagram.com/mridul.ft/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://discord.gg/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:mridulbud@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-</div>
-
-```yaml
-- My bugs are more famous than my commits 🐞
-- I believe in the power of caffeine and clean indentation.
-- When in doubt: console.log('It works!').
-```
+Welcome!  
+You've reached the end of the README.  
+Now go explore some code 🔍
