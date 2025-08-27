@@ -20,13 +20,6 @@
 
 ---
 
-## 💻 **Tech Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,java,git,github,vscode,tailwind,figma&perline=8" />
-</p>
-
----
-
 ## 🌟 **GitHub Stats**
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=mridulcreates&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulcreates&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
@@ -44,3 +37,25 @@
 Welcome, mysterious visitor!  
 You've entered my digital lair.  
 Remember: curiosity comes with its consequences!
+```
+
+
+## 🤝 **Connect with Me**
+Got bugs? Let’s squash them together! Reach out anytime:
+
+<div align="center">
+  <a href="https://www.instagram.com/mridul.ft/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://discord.gg/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+  <a href="mailto:mridulbud@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</div>
+
+yaml
+- My bugs are more famous than my commits 🐞
+- I believe in the power of caffeine and clean indentation.
+- When in doubt: console.log('It works!').
