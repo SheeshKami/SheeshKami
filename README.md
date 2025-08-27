@@ -43,4 +43,4 @@
 ```yaml
 Welcome, mysterious visitor!  
 You've entered my digital lair.  
-Remember: curiosity comes with its consequences!
+Remember: curiosity comes with its consequences! 
