@@ -1,52 +1,46 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=E63946&text=Welcome%20To%20My%20Profile&desc=Gamer%20%7C%20Weeb%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=70&fontAlignY=38&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=E63946&text=Welcome%20To%20My%20Profile&desc=Gamer%20%7C%20Weeb%20%7C%20Developer&descAlign=50&descAlignY=71&fontAlignY=46&fontColor=ffffff"/>
 </p>
 
 <a href="https://google.com">
-  <img align="right" width="420" src="https://lanyard.cnrad.dev/api/1200558164844740796?imgStyle=square&gradient=fa7d09-ff4301-4a4a4a-0d1117&bg=1d1f27" />
+<img align="right" width="425" src="https://lanyard.cnrad.dev/api/1200558164844740796?imgStyle=square&gradient=fa7d09-ff4301-4a4a4a-0d1117&bg=1d1f27" style="position: relative; top: -10mm;">
 </a>
 
-### 👋 Hey, I'm Mridul!  
+### 👋 Hey, I'm Mridul! 
 
-**`Full-Stack Developer | Gamer | Anime Enthusiast`**  
-I turn ☕ + 🎧 + 💻 into code and late-night debugging sessions.  
+**Full-Stack Developer | Gamer | Anime Binge Watcher**
 
 ---
 
-## 🔧 **Tech Stack**
+<h4>About Me</h4>
+
+- Building things for the web  
+- Learning something new every day  
+- Anime + late-night coding = perfect combo 
+
+---
+
+## 💻 **Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,java,git,github,vscode,tailwind,figma&perline=8" />
 </p>
 
 ---
 
-## 🎵 **Now Playing on Spotify**
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31mmnbdcsve7hw6g2xzclc5w2qte&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31mmnbdcsve7hw6g2xzclc5w2qte&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true" alt="Spotify Now Playing"/>
-  </a>
-</p>
-
----
-
 ## 🌟 **GitHub Stats**
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mridulcreates&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mridulcreates&theme=react&hide_border=true&background=0D1117" />
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=mridulcreates&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulcreates&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mridulcreates&bg_color=0d1117&color=ffffff&line=00ffee&point=ff0080&area=true&hide_border=true" alt="activity-graph graph"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mridulcreates&bg_color=0d1117&color=ffffff&line=00ffee&point=ababab&area=true&hide_border=true" alt="activity-graph graph"  />
+</div>
 
 ---
 
 ## 🧮 **Visitor Counter**
-<p align="center">
-  <img src="https://count.getloli.com/get/@mridulcreates?theme=rule34" />
-</p>
+<a href="https://google.com"><img align="right" width=400 src="https://count.getloli.com/get/@mridulcreates?theme=rule34"></a>
 
 ```yaml
 Welcome, mysterious visitor!  
 You've entered my digital lair.  
-Remember: curiosity has its consequences ⚡
+Remember: curiosity comes with its consequences!
