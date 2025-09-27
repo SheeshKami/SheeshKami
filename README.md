@@ -21,8 +21,35 @@
 ---
 
 ## 💻 **Tech Stack**
+
+### 🌐 Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,express,mongodb,python,git,github,vscode,tailwind&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind" />
+</p>
+
+### ⚙️ Backend & APIs  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express,mongodb" />
+</p>
+
+### 🖥️ Programming Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts" />
+</p>
+
+### 🤖 AI / ML  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" /> <!-- add TensorFlow, PyTorch, etc. if you want -->
+</p>
+
+### ☁️ Cloud & Hosting  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" /> <!-- add AWS, Firebase, etc. if you use them -->
+</p>
+
+### 🛠️ Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
