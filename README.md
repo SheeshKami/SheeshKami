@@ -56,17 +56,6 @@
 
 ---
 
-## **Acitivty**
-<div align="center"></div>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xinacy&theme=github_dark" alt="Profile Summary"/>
-
-</div>
-
-<br/>
-
----
-
 ## 🌟 **GitHub Stats**
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=mridulcreates&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulcreates&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
