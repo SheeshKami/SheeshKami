@@ -2,7 +2,7 @@
 
 <a href="https://google.com"> <img align="right" width="425" src="https://lanyard.cnrad.dev/api/922022659494117416?imgStyle=square&gradient=fa7d09-ff4301-4a4a4a-0d1117&bg=1d1f27" style="position: relative; top: -10mm;"> </a>
 
-### <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hey, I'm Mridul! 
+<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> ###  Hey, I'm Mridul! 
 
 **Full-Stack Developer | Gamer | Anime Binge Watcher**
 
