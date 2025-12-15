@@ -75,6 +75,7 @@ You've entered my digital lair.
 Remember: curiosity comes with its consequences.
 Explore wisely, not everything here reveals itself easily.
 Some paths lead to knowledge, others to chaos. 
+```
 
 <!-- Animated wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer"/>
