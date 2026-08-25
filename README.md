@@ -9,7 +9,9 @@ python · typescript · postgresql · redis · docker · kubernetes · aws
 
 **achievements**
 2023 techbuzz winner@davps-14
+</br>
 2025 cyber police workshop special mention@davps-49
+</br>
 2026 cyberBuzz Runner Up@Amity-46
 
 **links**  
