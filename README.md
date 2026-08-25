@@ -8,6 +8,7 @@ prefer the backend side of stuff
 python · typescript · postgresql · redis · docker · kubernetes · aws
 
 **achievements**
+</br>
 2023 techbuzz winner@davps-14
 </br>
 2025 cyber police workshop special mention@davps-49
