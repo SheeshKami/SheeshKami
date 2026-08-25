@@ -16,4 +16,4 @@ Currently building with TypeScript, React, and Node.js.
 <br/>
 
 **Find me**  
-[X / Twitter](https://x.com/SheeshKami) · [Instagram](https://instagram.com/mridul.ft)
+[leetcode](https://x.com/SheeshKami) · [x](https://x.com/SheeshKami) · [discord](https://instagram.com/mridul.ft)
