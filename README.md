@@ -1,7 +1,7 @@
 # Mridul
 
-Full-stack developer focused on modern web applications.  
-Currently building with TypeScript, React, and Node.js.
+just building stuff
+mostly backend
 
 **Stack**  
 `TypeScript` · `React` · `Next.js` · `Node.js` · `Python` · `Express` · `MongoDB` · `Tailwind CSS` · `Git`
