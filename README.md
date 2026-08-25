@@ -8,4 +8,4 @@ prefer the backend side of stuff
 python · typescript · postgresql · redis · docker · kubernetes · aws
 
 **links**  
-[website](https://google.com) · [x](https://x.com/yourhandle) · [leetcode](https://linkedin.com/in/) · [discord](https://google.com)
+[website](https://google.com) · [x](https://x.com/kamisheesh) · [leetcode](https://leetcode.com/u/mridulbud) · [discord](https://discord.com/channels/@me/922022659494117416)
