@@ -1,6 +1,7 @@
-### mridul · kami
+### hey, i'm mridul
 
 building things
+</br>
 prefer the backend side of stuff
 
 **stack**  
