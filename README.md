@@ -1,7 +1,8 @@
 # Mridul
 
-just building stuff,
-mostly backend.
+just building stuff 
+<br/>
+mostly backend
 
 **Stack**  
 `TypeScript` · `React` · `Next.js` · `Node.js` · `Python` · `Express` · `MongoDB` · `Tailwind CSS` · `Git`
