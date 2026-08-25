@@ -13,7 +13,7 @@ python · typescript · postgresql · redis · docker · kubernetes · aws
 </br>
 2025 cyber police workshop special mention@davps-49
 </br>
-2026 cyberbuzz runner up@Amity-46
+2026 cyberbuzz runner up@amity-46
 
 **links**  
 [website](https://google.com) · [x](https://x.com/kamisheesh) · [leetcode](https://leetcode.com/u/mridulbud) · [discord](https://discord.com/channels/@me/922022659494117416)
